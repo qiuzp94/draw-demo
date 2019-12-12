@@ -7,4 +7,4 @@
 5. HTML 5 & CSS 3 inside
 
 ## 预览地址  
-[我的手机画板](https://qiuzp94.github.io/draw-demo/index.html)
+[我的手机画板](https://qiuzp94.github.io/draw-demo/.)
